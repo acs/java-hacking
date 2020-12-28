@@ -1,4 +1,4 @@
-package me.acs;
+package me.acs.modernJava;
 
 /**
  * Hello world!
